@@ -17,3 +17,7 @@ Password = (vacío)
 4.- ejecutar comando " npm install" ( creara la carpeta node_modules con las dependencias necesarias segun el package.json)
 5.- ejecutar comando " ng serve" ( se ejecutara a nivel local angular , colocar en browser la siguiente URL : http://localhost:4200/ )
 
+ A Considerar ( el proyecto en si no esta finalizado por temas de mi actual trabajo , falta implementar autentificacion por token , manual entre otras cosas )
+
+agradeceria de su parte dejarme un feedback de esto , ya que me ayudaria mucho.
+
